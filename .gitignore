@@ -29,3 +29,6 @@ backup/
 public/models/character.glb
 
 public/models/character.glb
+
+.git-old/
+.git-backup/
